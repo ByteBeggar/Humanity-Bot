@@ -1,0 +1,3 @@
+socks5://host:proxy
+socks5://host:proxy
+socks5://host:proxy
